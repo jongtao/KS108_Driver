@@ -4,6 +4,8 @@ KS108 Driver
 A minimal KS108 LCD Driver Implemented for AVR with PC utilities to convert PNG
 images to C constants.
 
+Please read http://jongtao.github.io/things/pages/10-10-14/ for more details about the original application.
+
 
 lcd.c
 -----
